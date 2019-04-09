@@ -13,3 +13,9 @@ B. Operation of the system:-
 3.	Single Chat: user chat with other available user who are online.
 4.	Multi Chat: Multiple user can chat with each other.
 5.	Exit/Logout: Exit or logout by user from the web chat application. 
+
+
+Installation:-
+1. Start the XAMPP program. When started, XAMPP loads itself into your icon tray. The icon is orange with a white bone-like shape in its center. Single-click the icon to expand the Control Panel. Click on the "Start" button next to "Apache" to start your Apache Web server. When Apache is running, the word "Running" will appear next to it, highlighted in green. Also start "MySQL" if your PHP scripts depend on a MySQL database to run.
+2. Import the given Databse file in MySQL.
+3. Place your PHP files in the "HTDocs" folder located under the "XAMMP" folder on your C: drive. The file path is "C:\xampp\htdocs" for your Web server. Make sure your PHP files are saved as such; they must have the ".php" file extension. Open up any Web browser on your desktop and enter "localhost" into the address box.
