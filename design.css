@@ -1,0 +1,48 @@
+input[type=text] {
+    border: 2px solid #3390FF;
+    border-radius: 15px;
+	font-family:Times New Roman, Times, serif;
+	font-weight:bold;
+	font-size:17px;
+	background-image: url("us.png");
+    background-position: 8px 7px; 
+    background-repeat: no-repeat;
+	padding: 12px 20px 12px 50px;
+}
+
+input[type=text]:focus {
+    border: 3px solid blue;
+}
+
+input[type=password]:focus {
+    border: 3px solid blue;
+}
+
+input[type=email]:focus {
+    border: 3px solid blue;
+}
+
+
+input[type=password] {
+    border: 2px solid #3390FF;
+    border-radius: 15px;
+	font-family:Times New Roman, Times, serif;
+	font-weight:bold;
+	font-size:17px;
+	background-image: url("pa.png");
+    background-position: 8px 7px; 
+    background-repeat: no-repeat;
+	padding: 12px 20px 12px 50px;
+}
+
+input[type=email] {
+    border: 2px solid #3390FF;
+    border-radius: 15px;
+	font-family:Times New Roman, Times, serif;
+	font-weight:bold;
+	font-size:17px;
+	background-image: url("ma.png");
+    background-position: 8px 7px; 
+    background-repeat: no-repeat;
+	padding: 12px 20px 12px 50px;
+}
